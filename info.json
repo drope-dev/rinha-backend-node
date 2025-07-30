@@ -1,0 +1,23 @@
+{
+  "name": "Pedro Moreira",
+  "social": [],
+  "source-code-repo": "https://github.com/peomoreira/rinha-backend-node",
+  "langs": [
+    "node",
+    "typescript"
+  ],
+  "storages": [
+    "postgresql",
+    "redis"
+  ],
+  "messaging": [
+    "bullmq"
+  ],
+  "load-balancers": [
+    "nginx"
+  ],
+  "other-technologies": [
+    "fastify",
+    "docker"
+  ]
+}
